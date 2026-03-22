@@ -188,6 +188,7 @@ main section.active {
 /* Configurações para Mobile */
 @media (max-width: 768px) {
     .menu-icon {
+        color: rgb(34, 34, 34);
         display: block; /* Mostra as barrinhas no celular */
         position: absolute;
         right: 20px;
